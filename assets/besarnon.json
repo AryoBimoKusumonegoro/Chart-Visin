@@ -1,0 +1,218 @@
+[
+ {
+   "No": 1,
+   "Industri": "Industri Tekstil",
+   "Tahun": "2015",
+   "Jumlah_Unit": 266,
+   "Jumlah_SDM": "1.509.550",
+   "Jumlah_Prod": "1.396.633.000",
+   "Nilai_Prod": "488.821.550.000"
+ },
+ {
+   "No": 2,
+   "Industri": "Industri Tekstil",
+   "Tahun": "2016",
+   "Jumlah_Unit": 271,
+   "Jumlah_SDM": "1.592.125",
+   "Jumlah_Prod": "1.436.435.500",
+   "Nilai_Prod": "527.171.828.500"
+ },
+ {
+   "No": 3,
+   "Industri": "Industri Tekstil",
+   "Tahun": "2017",
+   "Jumlah_Unit": 277,
+   "Jumlah_SDM": "1.655.075",
+   "Jumlah_Prod": "1.648.150.000",
+   "Nilai_Prod": "655.963.700.000"
+ },
+ {
+   "No": 4,
+   "Industri": "Industri Tekstil",
+   "Tahun": "2018",
+   "Jumlah_Unit": 303,
+   "Jumlah_SDM": "1.810.425",
+   "Jumlah_Prod": "1.802.850.000",
+   "Nilai_Prod": "717.534.300.000"
+ },
+ {
+   "No": 5,
+   "Industri": "Industri Barang Kulit",
+   "Tahun": "2015",
+   "Jumlah_Unit": 16,
+   "Jumlah_SDM": "2.901",
+   "Jumlah_Prod": "9.979",
+   "Nilai_Prod": "5.139.062.500"
+ },
+ {
+   "No": 6,
+   "Industri": "Industri Barang Kulit",
+   "Tahun": "2016",
+   "Jumlah_Unit": 19,
+   "Jumlah_SDM": "2.997",
+   "Jumlah_Prod": "10.433",
+   "Nilai_Prod": "5.608.629.000"
+ },
+ {
+   "No": 7,
+   "Industri": "Industri Barang Kulit",
+   "Tahun": "2017",
+   "Jumlah_Unit": 21,
+   "Jumlah_SDM": "3.368",
+   "Jumlah_Prod": "10.557",
+   "Nilai_Prod": "5.834.727.000"
+ },
+ {
+   "No": 8,
+   "Industri": "Industri Barang Kulit",
+   "Tahun": "2018",
+   "Jumlah_Unit": 24,
+   "Jumlah_SDM": "3.768",
+   "Jumlah_Prod": "11.812",
+   "Nilai_Prod": "6.528.165.000"
+ },
+ {
+   "No": 9,
+   "Industri": "Industri Galian Bukan Logam",
+   "Tahun": "2015",
+   "Jumlah_Unit": 125,
+   "Jumlah_SDM": "12.251",
+   "Jumlah_Prod": "1.440.625",
+   "Nilai_Prod": "36.764.750.000"
+ },
+ {
+   "No": 10,
+   "Industri": "Industri Galian Bukan Logam",
+   "Tahun": "2016",
+   "Jumlah_Unit": 131,
+   "Jumlah_SDM": "12.408",
+   "Jumlah_Prod": "1.796.540",
+   "Nilai_Prod": "44.120.323.900"
+ },
+ {
+   "No": 11,
+   "Industri": "Industri Galian Bukan Logam",
+   "Tahun": "2017",
+   "Jumlah_Unit": 140,
+   "Jumlah_SDM": "12.904",
+   "Jumlah_Prod": "2.051.259",
+   "Nilai_Prod": "51.076.349.100"
+ },
+ {
+   "No": 12,
+   "Industri": "Industri Galian Bukan Logam",
+   "Tahun": "2018",
+   "Jumlah_Unit": 140,
+   "Jumlah_SDM": "12.904",
+   "Jumlah_Prod": "2.051.259",
+   "Nilai_Prod": "51.076.349.100"
+ },
+ {
+   "No": 13,
+   "Industri": "Industri Baja/Pengolahan Logam",
+   "Tahun": "2015",
+   "Jumlah_Unit": 15,
+   "Jumlah_SDM": "4.499",
+   "Jumlah_Prod": "75.239.866",
+   "Nilai_Prod": "433.413.903.000"
+ },
+ {
+   "No": 14,
+   "Industri": "Industri Baja/Pengolahan Logam",
+   "Tahun": "2016",
+   "Jumlah_Unit": 23,
+   "Jumlah_SDM": "4.794",
+   "Jumlah_Prod": "80.175.410",
+   "Nilai_Prod": "477.296.904.825"
+ },
+ {
+   "No": 15,
+   "Industri": "Industri Baja/Pengolahan Logam",
+   "Tahun": "2017",
+   "Jumlah_Unit": 32,
+   "Jumlah_SDM": "5.268",
+   "Jumlah_Prod": "88.111.855",
+   "Nilai_Prod": "553.110.434.500"
+ },
+ {
+   "No": 16,
+   "Industri": "Industri Baja/Pengolahan Logam",
+   "Tahun": "2018",
+   "Jumlah_Unit": 47,
+   "Jumlah_SDM": "7.285",
+   "Jumlah_Prod": "121.842.141",
+   "Nilai_Prod": "731.052.846.000"
+ },
+ {
+   "No": 17,
+   "Industri": "Industri Peralatan",
+   "Tahun": "2015",
+   "Jumlah_Unit": 22,
+   "Jumlah_SDM": "2.302",
+   "Jumlah_Prod": "578",
+   "Nilai_Prod": "27.339.689.000"
+ },
+ {
+   "No": 18,
+   "Industri": "Industri Peralatan",
+   "Tahun": "2016",
+   "Jumlah_Unit": 26,
+   "Jumlah_SDM": "2.511",
+   "Jumlah_Prod": "640",
+   "Nilai_Prod": "28.960.320.000"
+ },
+ {
+   "No": 19,
+   "Industri": "Industri Peralatan",
+   "Tahun": "2017",
+   "Jumlah_Unit": 30,
+   "Jumlah_SDM": "2.756",
+   "Jumlah_Prod": "748",
+   "Nilai_Prod": "31.603.374.000"
+ },
+ {
+   "No": 20,
+   "Industri": "Industri Peralatan",
+   "Tahun": "2018",
+   "Jumlah_Unit": 30,
+   "Jumlah_SDM": "2.756",
+   "Jumlah_Prod": "748",
+   "Nilai_Prod": "31.603.374.000"
+ },
+ {
+   "No": 21,
+   "Industri": "Industri Alat Angkut dan Transportasi",
+   "Tahun": "2015",
+   "Jumlah_Unit": 6,
+   "Jumlah_SDM": "1.830",
+   "Jumlah_Prod": "3.930",
+   "Nilai_Prod": "19.200.000.000"
+ },
+ {
+   "No": 22,
+   "Industri": "Industri Alat Angkut dan Transportasi",
+   "Tahun": "2016",
+   "Jumlah_Unit": 14,
+   "Jumlah_SDM": "4.270",
+   "Jumlah_Prod": "9.172",
+   "Nilai_Prod": "41.140.000.000"
+ },
+ {
+   "No": 23,
+   "Industri": "Industri Alat Angkut dan Transportasi",
+   "Tahun": "2017",
+   "Jumlah_Unit": 15,
+   "Jumlah_SDM": "4.511",
+   "Jumlah_Prod": "9.825",
+   "Nilai_Prod": "44.035.100.000"
+ },
+ {
+   "No": 24,
+   "Industri": "Industri Alat Angkut dan Transportasi",
+   "Tahun": "2018",
+   "Jumlah_Unit": 22,
+   "Jumlah_SDM": "6.616",
+   "Jumlah_Prod": "13.920",
+   "Nilai_Prod": "64.184.600.000"
+ }
+]
